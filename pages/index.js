@@ -53,12 +53,13 @@ export default function Home() {
         <title>Percentage Calculator</title>
         <meta name="description" content="light weight and simple percentage calculator , it will save you from the headaches" />
         <link rel="icon" href="/favicon.png" />
-        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5980220274659554"
-          crossorigin="anonymous" />
+
       </Head>
 
 
       <main className={styles.main}>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5980220274659554"
+          crossorigin="anonymous" />
         <h1 className={styles.title}>Percentage Calculator</h1>
         <p className={styles.description}>Percentage is a free online tool , that will save your day</p>
 
